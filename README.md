@@ -1,22 +1,24 @@
 # 🚗 Visualization Tool for Electric Vehicle Charge and Range Analysis
 
-## 📌 Project Overview
+## 📖 Project Overview
 
-The **Visualization Tool for Electric Vehicle Charge and Range Analysis** is developed to analyze electric vehicle data using **MySQL** and **Tableau Public**. The project helps users understand EV charging infrastructure, vehicle range, efficiency, pricing, and brand comparisons through interactive dashboards.
+The **Visualization Tool for Electric Vehicle Charge and Range Analysis** is a data visualization project developed as part of the **APSCHE – SmartBridge Virtual Internship**.
+
+The project uses **MySQL** for data management and **Tableau Public** for creating interactive dashboards that help analyze electric vehicle charging stations, vehicle range, efficiency, pricing, and brand performance.
 
 ---
 
-## 🎯 Project Objectives
+# 🎯 Objectives
 
 - Analyze electric vehicle datasets.
 - Store and manage data using MySQL.
 - Create interactive dashboards using Tableau Public.
-- Provide insights into EV range, efficiency, charging stations, and brand performance.
-- Support data-driven decision making through visualization.
+- Visualize EV charging stations, range, efficiency, and brand comparisons.
+- Generate meaningful insights for better decision-making.
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠 Technologies Used
 
 - MySQL
 - Tableau Public
@@ -38,11 +40,6 @@ EV-Charge-Range-Analysis
 ├── Project Development Phase
 ├── Performance Testing
 ├── Doc and Demo
-├── Datasets
-├── Documentation
-├── EV Internship Screenshots
-├── Tableau
-├── Video
 └── README.md
 ```
 
@@ -50,45 +47,32 @@ EV-Charge-Range-Analysis
 
 # 📁 Folder Description
 
-### 📂 Ideation Phase
-Contains the project idea, brainstorming, empathy map, and problem statement.
+## 📂 Ideation Phase
+Contains the initial project planning documents such as the problem statement, brainstorming ideas, and empathy map.
 
-### 📂 Requirement Analysis
-Contains system requirements, data flow diagram, user story, customer journey map, and technology stack.
+## 📂 Requirement Analysis
+Contains the customer journey map, data flow diagram, technology stack, user story, and project requirements.
 
-### 📂 Project Design Phase
-Contains the proposed solution, solution architecture, and problem solution fit documents.
+## 📂 Project Design Phase
+Contains the proposed solution, problem-solution fit, and solution architecture of the project.
 
-### 📂 Project Planning Phase
-Contains the complete project planning document and implementation schedule.
+## 📂 Project Planning Phase
+Contains the project planning document, implementation timeline, and development schedule.
 
-### 📂 Project Development Phase
-Contains business questions, datasets, Tableau workbooks, screenshots, SQL queries, and implementation resources.
+## 📂 Project Development Phase
+Contains the project implementation files, datasets, Tableau workbooks, SQL queries, screenshots, and other development resources.
 
-### 📂 Performance Testing
-Contains the performance testing document with test cases and results.
+## 📂 Performance Testing
+Contains the performance testing report and project evaluation results.
 
-### 📂 Doc and Demo
-Contains the final project report and demonstration video.
-
-### 📂 Datasets
-Contains all CSV files used for project analysis.
-
-### 📂 Documentation
-Contains additional supporting documentation prepared during project development.
-
-### 📂 EV Internship Screenshots
-Contains screenshots of SQL execution, Tableau dashboards, and project implementation.
-
-### 📂 Tableau
-Contains Tableau workbook files used for dashboard development.
-
-### 📂 Video
-Contains the project demonstration video.
+## 📂 Doc and Demo
+Contains the final project report and project demonstration video prepared for submission.
 
 ---
 
-## 📊 Dashboard Features
+# 📊 Dashboard Features
+
+The Tableau dashboard provides the following visualizations:
 
 - EV Range Analysis
 - EV Efficiency Analysis
@@ -97,18 +81,18 @@ Contains the project demonstration video.
 
 ---
 
-## 📈 Project Outcome
+# 📈 Expected Outcome
 
-The project successfully demonstrates how electric vehicle data can be transformed into meaningful visual insights using MySQL and Tableau Public. It enables users to analyze EV performance, charging infrastructure, and brand comparisons efficiently.
+This project demonstrates how electric vehicle data can be analyzed and transformed into meaningful visual insights using MySQL and Tableau Public. The dashboard enables users to compare vehicle performance, charging infrastructure, efficiency, and brand-wise statistics through interactive visualizations.
 
 ---
 
-## 👨‍💻 Developed By
+# 👨‍💻 Developer
 
 **Manchala Karthik**
 
 B.Tech – Artificial Intelligence and Data Science
 
-Vasireddy Venkatadri Institute of Technology
+Vasireddy Venkatadri Institute of Technology (VVIT)
 
 APSCHE – SmartBridge Virtual Internship
