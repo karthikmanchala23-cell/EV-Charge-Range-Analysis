@@ -4,12 +4,18 @@
 Visualization Tool for Electric Vehicle Charge and Range Analysis
 
 ## Description
-The Ideation Phase focuses on identifying the project problem, understanding user needs, and generating possible solutions. This phase establishes the foundation for developing an interactive visualization tool for analyzing electric vehicle charging stations, driving range, efficiency, and brand comparisons using MySQL and Tableau.
+This folder contains the initial planning and idea-generation documents for the project. These documents helped define the project objective and understand user requirements.
 
-## Contents
-- Problem Statement
-- Brainstorming
-- Empathy Map
+## Files Included
+
+### 📄 Problem Statement
+Defines the problem addressed by the project and explains why an electric vehicle visualization tool is needed.
+
+### 📄 Brainstorming
+Contains the ideas discussed during the planning stage to identify possible features and project solutions.
+
+### 📄 Empathy Map
+Represents the users' needs, expectations, challenges, and goals to better understand the target audience.
 
 ## Objective
-The objective of this phase is to understand the problem, analyze user requirements, and define a clear direction for developing the Electric Vehicle Charge and Range Analysis project.
+To identify the project problem, understand user needs, and finalize the project idea before development.
