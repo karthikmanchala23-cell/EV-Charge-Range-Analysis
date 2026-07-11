@@ -68,6 +68,10 @@ Contains the performance testing report and project evaluation results.
 ## 📂 Doc and Demo
 Contains the final project report and project demonstration video prepared for submission.
 
+The **EV Analysis Final Report** also includes the following project links:
+- GitHub Repository
+- Tableau Public Dashboard
+
 ---
 
 # 📊 Dashboard Features
@@ -87,12 +91,24 @@ This project demonstrates how electric vehicle data can be analyzed and transfor
 
 ---
 
+# 🔗 Project Links
+
+## 💻 GitHub Repository
+
+https://github.com/karthikmanchala23-cell/EV-Charge-Range-Analysis
+
+## 📊 Tableau Public Dashboard
+
+https://public.tableau.com/app/profile/manchala.karthik/viz/Electric_Vehicle_Charge_and_Range_Analysis/ElectricVehicleChargeandRangeAnalysisDashboard?publish=yes
+
+---
+
 # 👨‍💻 Developer
 
 **Manchala Karthik**
 
-B.Tech – Artificial Intelligence and Data Science
+**B.Tech – Artificial Intelligence and Data Science**
 
-Vasireddy Venkatadri Institute of Technology (VVIT)
+**Vasireddy Venkatadri Institute of Technology (VVIT)**
 
-APSCHE – SmartBridge Virtual Internship
+**APSCHE – SmartBridge Virtual Internship**
